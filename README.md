@@ -1,4 +1,4 @@
-# Regressao-linear-nos-dados-do-Titanic
+# Modelo-de-classificacao-nos-dados-do-Titanic
 Modelo de classificação nos dados dos passageiros do Titanic
 
 Em 15 de abril de 1912, durante sua viagem inaugural, o amplamente considerado “inafundável” RMS Titanic afundou após colidir com um iceberg. 
