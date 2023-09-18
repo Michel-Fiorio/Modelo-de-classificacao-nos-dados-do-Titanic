@@ -1,5 +1,4 @@
-# Modelo-de-classificacao-nos-dados-do-Titanic
-Modelo de classificação nos dados dos passageiros do Titanic
+# Modelo de classificacao nos dados do Titanic
 
 Em 15 de abril de 1912, durante sua viagem inaugural, o amplamente considerado “inafundável” RMS Titanic afundou após colidir com um iceberg. 
 Infelizmente, não havia botes salva-vidas suficientes para todos a bordo, resultando na morte de 1.502 dos 2.224 passageiros e tripulantes.
